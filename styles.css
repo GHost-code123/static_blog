@@ -3,6 +3,16 @@ body {
 	background-color: #FEF1EB;
 }
 
+header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+#blog-logo {
+	width: 20%;
+}
+
 @media screen {
 	
 }
